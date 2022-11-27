@@ -13,6 +13,6 @@ RDC.RDC()
 Method 2:
 
 1) Put .py file in your Project's script folder
-2) Launch Maya, open Script Editors (python tab) and
+2) Launch Maya, open Script Editors, and
 go to File >> Open Script
 3) Execute All
