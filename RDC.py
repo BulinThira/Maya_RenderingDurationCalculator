@@ -2,7 +2,7 @@
 
 # DESCRIPTION: Rendering Duration Calculator(RDC)
 # REQUIRE: Python3
-# AUTHOR: BulinThira - Github
+# AUTHOR: BulinThira - GitHub
 
 import maya.cmds as mc
 import math
